@@ -1,0 +1,52 @@
+.someDummyClass{
+    color: red;
+    margin: 5px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    padding: 5px;
+}
+.jumbotron{
+    background-color: #e9ecef;
+    padding: 6rem!important;
+}
+.jumbotron h1{
+    font-size: 4.5rem;
+    font-weight: 300;
+}
+
+.textYellow{
+    color: hsl(48deg 97% 53%);
+}
+.Top , .footTop{
+    text-decoration: none !important;
+    font-size: 2.5rem !important;
+    font-weight: 700;
+}
+.footTop{
+    color: white !important;
+}
+.Navtext li{
+    color: black !important;
+    font-weight: 700 !important;
+}
+.headingItem{
+    margin: 15px 0 !important;
+    font-weight: 700 !important;
+    font-size: 1.5rem !important;
+}
+
+.logo img{
+    filter: grayscale(100%);
+}
+.foot{
+    margin-top: 50px !important;
+    background-color: hsl(0deg 0% 20%);
+}
+.announcement-bar{
+    position: absolute;
+    top: 0;
+    background-color: aliceblue;
+    text-align: center;
+    width: 100%;
+    z-index: 1;
+}
